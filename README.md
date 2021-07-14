@@ -6,7 +6,7 @@
 ## Usage:
 ```bash
 # Clone this repository
-git clone https://github.com/webdeziner/flightphp-basic-starter
+git clone https://github.com/shineabraham/php-mvc
 # Go into the repository
 cd flightphp-basic-starter
 # Install
